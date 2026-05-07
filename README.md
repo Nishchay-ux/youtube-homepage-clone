@@ -6,7 +6,7 @@ This project recreates the front page layout of YouTube with a focus on clean st
 ## Live Demo
 
 🔗 **View Project Here:**  
-https://yourusername.github.io/your-repository-name/
+https://nishchay-ux.github.io/youtube-homepage-clone/
 
 ## Preview
 
